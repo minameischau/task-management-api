@@ -1,0 +1,12 @@
+C:\Chou\SelfLearning\ReactJs\task-management\task-management-api\TaskManagement.Api\TaskManagement.Domain\bin\Debug\net8.0\TaskManagement.Domain.deps.json
+C:\Chou\SelfLearning\ReactJs\task-management\task-management-api\TaskManagement.Api\TaskManagement.Domain\bin\Debug\net8.0\TaskManagement.Domain.dll
+C:\Chou\SelfLearning\ReactJs\task-management\task-management-api\TaskManagement.Api\TaskManagement.Domain\bin\Debug\net8.0\TaskManagement.Domain.pdb
+C:\Chou\SelfLearning\ReactJs\task-management\task-management-api\TaskManagement.Api\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.csproj.AssemblyReference.cache
+C:\Chou\SelfLearning\ReactJs\task-management\task-management-api\TaskManagement.Api\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Chou\SelfLearning\ReactJs\task-management\task-management-api\TaskManagement.Api\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.AssemblyInfoInputs.cache
+C:\Chou\SelfLearning\ReactJs\task-management\task-management-api\TaskManagement.Api\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.AssemblyInfo.cs
+C:\Chou\SelfLearning\ReactJs\task-management\task-management-api\TaskManagement.Api\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Chou\SelfLearning\ReactJs\task-management\task-management-api\TaskManagement.Api\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.dll
+C:\Chou\SelfLearning\ReactJs\task-management\task-management-api\TaskManagement.Api\TaskManagement.Domain\obj\Debug\net8.0\refint\TaskManagement.Domain.dll
+C:\Chou\SelfLearning\ReactJs\task-management\task-management-api\TaskManagement.Api\TaskManagement.Domain\obj\Debug\net8.0\TaskManagement.Domain.pdb
+C:\Chou\SelfLearning\ReactJs\task-management\task-management-api\TaskManagement.Api\TaskManagement.Domain\obj\Debug\net8.0\ref\TaskManagement.Domain.dll
