@@ -6,7 +6,7 @@ trigger:
 - master
 
 pool:
-  name: Hosted Agent
+  name: Azure Pipelines
 
 resources:
 - repo: self
